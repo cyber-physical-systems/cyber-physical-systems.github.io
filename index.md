@@ -1,8 +1,9 @@
 ---
 title: About Alembic
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  ## CPSLab
+  The Cyber-Physical Systems Laboratory (CPSLab) conducts research at the intersection of distributed computation, energy, security and privacy, and control of Cyber-Physical Systems. We investigate the performance modeling, data analysis, system security and privacy, and control of Cyber-Physical Systems. We are part of the FIU SCIS and are physically located at PG6 143 of FIU MMC campus.
+  
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
