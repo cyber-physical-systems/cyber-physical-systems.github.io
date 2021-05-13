@@ -1,7 +1,7 @@
-# [Alembic](https://alembic.darn.es/)
+# [CPSLab](https://alembic.darn.es/)
 [![Gem Version](https://badge.fury.io/rb/alembic-jekyll-theme.svg)](https://badge.fury.io/rb/alembic-jekyll-theme)
 
-⚗ A Jekyll boilerplate theme designed to be a starting point for any Jekyll website.
+⚗ The Cyber-Physical Systems Laboratory (CPSLab) conducts research at the intersection of distributed computation, energy, security and privacy, and control of Cyber-Physical Systems. We investigate the performance modeling, data analysis, system security and privacy, and control of Cyber-Physical Systems. We are part of the FIU SCIS and are physically located at PG6 143 of FIU MMC campus.
 
 ![Screenshot](https://raw.githubusercontent.com/daviddarnes/alembic/master/screenshot.png)
 
