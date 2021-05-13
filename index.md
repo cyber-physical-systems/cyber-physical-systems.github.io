@@ -16,14 +16,14 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 ## News
 
--- 04/2020 Dr. Chen is invited to serve on Organizing Committee (Publication Chair) for **[ACM BuildSys’21](http://buildsys.acm.org/2021/)**, please consider submitting!
-- 03/2021 Dr. Chen attended **ASEE** (American Society for Engineering Education) DELTA Junior Faculty Institute.
-- 03/2021 Dr. Chen serves as TPC member for **MASS’21**, please consider submitting!
+- 04/2020 Dr. Chen is invited to serve on Organizing Committee (Publication Chair) for **[ACM BuildSys’21](http://buildsys.acm.org/2021/)**, please consider submitting!
+- 03/2021 Dr. Chen attended **[ASEE](https://www.asee.org/)** (American Society for Engineering Education) DELTA Junior Faculty Institute.
+- 03/2021 Dr. Chen serves as TPC member for **[MASS’21](https://eng.auburn.edu/conference/ieee-mass2021/)**, please consider submitting!
 - 03/2021 Dr. Chen serves as Guest Editor on Security, Privacy, and Multimodal Data Analysis for Social Media Call For Papers, please consider submitting!
-- 01/2021 IoT device privacy paper will appear at **ACM/IEEE IPSN’21** (Acceptance Rate: 24.76%), part of CPS-IoT Week 2021.
-- 12/2020 Dr. Chen serves as TPC member (Track: Distributed Operating Systems and Middleware) for **ICDCS’21**, please consider submitting!
+- 01/2021 IoT device privacy paper will appear at **[ACM/IEEE IPSN’21](https://ipsn.acm.org/2021/index.html)** (Acceptance Rate: 24.76%), part of **[CPS-IoT Week 2021](https://cps-iot-week2021.isis.vanderbilt.edu/)**.
+- 12/2020 Dr. Chen serves as TPC member (Track: Distributed Operating Systems and Middleware) for **[ICDCS’21](https://icdcs2021.us/)**, please consider submitting!
 - 12/2020 Congratulations to Qi for receiving 2020 SCIS Annual Best Research Student Award!
-- 11/2020 SolarTrader paper won the **Best Paper Award** at **ACM BuildSys’20**.
+- 11/2020 SolarTrader paper won the **Best Paper Award** at **[ACM BuildSys’20](http://buildsys.acm.org/2020/)**.
 - 10/2020 Dr Chen received CERTIFICATE OF APPRECIATION from IGSC Steering Committee.
 - 10/2020 PhD student (Qi) received **IGSC’20** participating grant to present our SolarDiagnostics work.
 - 09/2020 SolarTrader paper accepted at **BuildSys’20** (Regular Paper Acceptance Rate:  24%).
