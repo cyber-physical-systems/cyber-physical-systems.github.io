@@ -16,12 +16,15 @@ aside: true
 * [IGSC’20] SolarDiagnostics: Automatic Rooftop Solar Photovoltaic Array Damage Detection.   
   Qi Li, Keyang Yu and Dong Chen.   
   In Proc. of the Eleventh IEEE International Green and Sustainable Computing Conference, IGSC’20, Oct 19-22, Acceptance Rate = 23%.   
+  
 * [IPSN’20] SolarFinder: Automatic Detection of Solar Photovoltaic Arrays.    
   Qi Li, Yuzhou Feng, Yuyang Leng and Dong Chen.    
   In Proc. of the 19th ACM/IEEE International Conference on Information Processing in Sensor Networks, IPSN’20, April 21-24, 2020, Sydney, Australia, Acceptance Rate = 21.33%.   
+  
 * [Milcom’19] IoTSpot: Identifying the IoT Devices Using Their Anonymous Network Traffic Data.   
   Liangdong Deng, Yuzhou Feng, Dong Chen, and Naphtali Rishe.   
-  In Proc. of the 38th IEEE Military Communications Conference, MILCOM 2019, November 12-14, 2019, Norfolk, VA.    
+  In Proc. of the 38th IEEE Military Communications Conference, MILCOM 2019, November 12-14, 2019, Norfolk, VA.   
+  
 * [MASS’19] Solar-TK: A Data-driven Toolkit for Solar PV Performance Modeling and Forecasting.    
   Noman Bashir, Dong Chen, David Irwin, and Prashant Shenoy.    
   In Proc. of the 16th IEEE International Conference on Mobile Ad-Hoc and Smart Systems, November 4-7, 2019, Monterey, CA, USA.    
