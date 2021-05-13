@@ -9,18 +9,14 @@ aside: true
 
 ### Faculty
 
-Dong Chen
-
+- Dong Chen
 Assistant Professor
-
 Knight Foundation School of Computing and Information Sciences
-
 Florida International University. 
-
 
 ### Graduate Students
 
-- Qi Li (Ph.D. student, SCIS, FIU, since Spring 2019, Master of Northeastern University, China.)
+- Qi Li (Ph.D. student, SCIS, FIU, since Spring 2019, Master from Northeastern University, China.)
 
 - Keyang Yu (Ph.D. student, SCIS, FIU, since Fall 2019, B.S. from Southeast University.)
 
