@@ -1,23 +1,18 @@
 ---
-title: Elements
+title: Faculty
 feature_text: |
-  A demo of Markdown and HTML includes
+  CPSLab Members
 feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "A demo of Markdown and HTML includes"
+excerpt: "CPSLab Members"
 aside: true
 ---
 
-# Heading 1
+### Faculty
 
-## Heading 2
+### Graduate Students
 
-### Heading 3
+### Undergraduate Students
 
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
 
 <small>A small element</small>
 
