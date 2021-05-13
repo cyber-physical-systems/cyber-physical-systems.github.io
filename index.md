@@ -12,7 +12,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 <!--- (Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it. --->
 
  ## News
-
+<small>
 - 04/2020 Dr. Chen is invited to serve on Organizing Committee (Publication Chair) for **[ACM BuildSys’21](http://buildsys.acm.org/2021/)**, please consider submitting!
 - 03/2021 Dr. Chen attended **[ASEE](https://www.asee.org/)** (American Society for Engineering Education) DELTA Junior Faculty Institute.
 - 03/2021 Dr. Chen serves as TPC member for **[MASS’21](https://eng.auburn.edu/conference/ieee-mass2021/)**, please consider submitting!
@@ -48,3 +48,4 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 - 10/2018 Dr Chen attends Sustainable Research Pathways (SRP) Workshop, **Lawrence Berkeley National Laboratory**.
 - 09/2018 Sun paper is accepted to **ACM BuildSys’18** (Acceptance Rate: 24.19%)
 - 08/2018 Dr Chen joins **FIU SCIS** as tenure-track **Assistant Professor**.
+</small>
