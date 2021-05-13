@@ -9,9 +9,9 @@ aside: true
 
 ### Faculty
 
-- Dong Chen
-Assistant Professor
-Knight Foundation School of Computing and Information Sciences
+- Dong Chen\
+Assistant Professor\
+Knight Foundation School of Computing and Information Sciences\
 Florida International University. 
 
 ### Graduate Students
