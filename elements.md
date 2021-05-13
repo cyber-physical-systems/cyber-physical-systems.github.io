@@ -32,7 +32,7 @@ Florida International University.
 - **Yuzhou Feng**   
   M.S./Ph.D. student, SCIS, FIU  
   
-- **Wupeng Yin**
+- **Wupeng Yin**   
   M.S. student, FIU
 
 ### Undergraduate Students
