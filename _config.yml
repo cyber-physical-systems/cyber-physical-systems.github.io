@@ -95,7 +95,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Dong Chen" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/CPS-300x165.png" # Site logo, also used in jekyll-seo-tag
-description: "CPSLab aims to build data-driven experimental computer systems to make Cyber-Physical Systems (CPS) more energy-efficient and more secure. I have been looking into multiple CPS research problems, such as system sustainability, data privacy, and system security in CPS at different scales, such as the IoT and Edge Computing devices, smart homes and buildings, renewable energy systems, smart grids, and smart cities" # Site description and default description, also used in jekyll-seo-tag
+description: "CPSLab aims to build data-driven experimental computer systems at different scales to make Cyber-Physical Systems (CPS) more energy-efficient and more secure." # Site description and default description, also used in jekyll-seo-tag
 url: "https://dongchen0523.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/cyber-physical-systems"
