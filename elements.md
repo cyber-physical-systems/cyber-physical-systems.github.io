@@ -9,49 +9,49 @@ aside: true
 
 ### Faculty
 
-- Dong Chen    
+- **Dong Chen**    
 Assistant Professor   
 Knight Foundation School of Computing and Information Sciences   
 Florida International University. 
 
 ### Graduate Students
 
-- Qi Li    
+- **Qi Li**    
   Ph.D. student, SCIS, FIU, since Spring 2019    
   Master from Northeastern University, China
 
-- Keyang Yu    
+- **Keyang Yu**    
   Ph.D. student, SCIS, FIU, since Fall 2019      
   B.S. from Southeast University
 
-- Xu Li   
+- **Xu Li**   
   M.S. in CS, SCIS, FIU   
   from: Beihang University   
   first employment: Facebook    
   
-- Yuzhou Feng   
+- **Yuzhou Feng**   
   M.S./Ph.D. student, SCIS, FIU  
   
-- Wupeng Yin
+- **Wupeng Yin**
   M.S. student, FIU
 
 ### Undergraduate Students
 
-- Hongru Chu (2020)
+- **Hongru Chu** (2020)
 
-- Denis Ortega (2020)
+- **Denis Ortega** (2020)
 
-- Samuel Jose (2020)
+- **Samuel Jose** (2020)
 
-- Yuyang Leng (2020, Now Ph.D. at George Mason University)
+- **Yuyang Leng** (2020, Now Ph.D. at George Mason University)
 
-- Jacob Garcia (2019, FIU Honors College)
+- **Jacob Garcia** (2019, FIU Honors College)
 
-- Anwar Numa (2018)
+- **Anwar Numa** (2018)
 
-- Leonardo Gutierrez (2018)
+- **Leonardo Gutierrez** (2018)
 
-- Ramses Machado (2018, Now master at Georgia Institute of Technology)
+- **Ramses Machado** (2018, Now master at Georgia Institute of Technology)
 
 <small>A small element</small>
 
