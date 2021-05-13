@@ -16,12 +16,12 @@ Florida International University.
 
 ### Graduate Students
 
-- Qi Li   
-  Ph.D. student, SCIS, FIU, since Spring 2019
+- Qi Li    
+  Ph.D. student, SCIS, FIU, since Spring 2019    
   Master from Northeastern University, China
 
-- Keyang Yu 
-Ph.D. student, SCIS, FIU, since Fall 2019   
+- Keyang Yu    
+Ph.D. student, SCIS, FIU, since Fall 2019      
 B.S. from Southeast University
 
 ### Undergraduate Students
