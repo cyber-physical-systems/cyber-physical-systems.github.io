@@ -1,5 +1,5 @@
 ---
-title: Faculty
+title: ''
 feature_text: |
   CPSLab Members
 feature_image: "https://picsum.photos/2560/600?image=873"
