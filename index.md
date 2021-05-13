@@ -1,5 +1,5 @@
 ---
-title: CPSLab
+title: ''
 feature_text: |
   The Cyber-Physical Systems Laboratory (CPSLab) conducts research at the intersection of distributed computation, energy, security and privacy, and control of Cyber-Physical Systems. We investigate the performance modeling, data analysis, system security and privacy, and control of Cyber-Physical Systems. We are part of the FIU SCIS and are physically located at PG6 143 of FIU MMC campus. 
   
@@ -11,10 +11,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 <!--- (Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it. --->
 
-  {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} 
-
-
-## News
+ ## News
 
 - 04/2020 Dr. Chen is invited to serve on Organizing Committee (Publication Chair) for **[ACM BuildSys’21](http://buildsys.acm.org/2021/)**, please consider submitting!
 - 03/2021 Dr. Chen attended **[ASEE](https://www.asee.org/)** (American Society for Engineering Education) DELTA Junior Faculty Institute.
