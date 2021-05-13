@@ -12,6 +12,20 @@ aside: true
 <small>For the complete list of our publications, please check this page [https://scholar.google.com/citations?user=3-nlJyUAAAAJ&hl=en](https://scholar.google.com/citations?user=3-nlJyUAAAAJ&hl=en)</small>
 
 ###### Selected Conference Papers
+
+* [SECON’21] BIoTA: Control-Aware Attack Analytics for Building Internet of Things.   
+    Nur Haque, Mohammad Rahman, Dong Chen, Hisham Kholidy.    
+    In Proc. of the 18th IEEE International Conference on Sensing, Communication and Networking (IEEE SECON 2021), July 6-9, Virtual Conference, 2021, USA. Acceptance Rate = 26.42%.    
+
+* [IPSN’21] PrivacyGuard: Enhancing Smart Home User Privacy.     
+    Keyang Yu, Qi Li, Dong Chen, Mohammad Rahmann, and Shiqiang Wang.    
+    In Proc. of the 20th ACM/IEEE International Conference on Information Processing in Sensor Networks, IPSN’21, May 18–21, 2021, Nashville, TN, USA. Acceptance Rate = 24.76%. (Source Code and Data)   
+
+* [BuildSys’20] SolarTrader: Enabling Distributed Solar Energy Trading in Residential Virtual Power Plants.   
+   Yuzhou Feng, Qi Li, Dong Chen, and Raju Rangaswami.     
+   In Proc. of the 7th ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys 2020), Acceptance Rate = 24.3%, November 18–20, 2020, Virtual Event, Japan. (Source Code and Data)    
+   The Best Paper Award at ACM BuildSys’20.      
+    
 * <small>[IGSC’20] SolarDiagnostics: Automatic Rooftop Solar Photovoltaic Array Damage Detection.   
   Qi Li, Keyang Yu and Dong Chen.   
   In Proc. of the Eleventh IEEE International Green and Sustainable Computing Conference, IGSC’20, Oct 19-22, Acceptance Rate = 23%.   </small>
