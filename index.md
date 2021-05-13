@@ -16,10 +16,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 ## News
 
-
-<! --- - **Contact form** built in using [Formspree](https://formspree.io/) --->
-<! ---- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind --->
-- 04/2020 Dr. Chen is invited to serve on Organizing Committee (Publication Chair) for **ACM BuildSys’21**, please consider submitting!
+-- 04/2020 Dr. Chen is invited to serve on Organizing Committee (Publication Chair) for **[ACM BuildSys’21](http://buildsys.acm.org/2021/)**, please consider submitting!
 - 03/2021 Dr. Chen attended **ASEE** (American Society for Engineering Education) DELTA Junior Faculty Institute.
 - 03/2021 Dr. Chen serves as TPC member for **MASS’21**, please consider submitting!
 - 03/2021 Dr. Chen serves as Guest Editor on Security, Privacy, and Multimodal Data Analysis for Social Media Call For Papers, please consider submitting!
