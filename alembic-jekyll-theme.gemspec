@@ -3,12 +3,12 @@
 Gem::Specification.new do |spec|
   spec.name          = "alembic-jekyll-theme"
   spec.version       = "4.1.0"
-  spec.authors       = ["David Darnes"]
-  spec.email         = ["me@daviddarnes.com"]
+  spec.authors       = ["Dong Chen"]
+  spec.email         = ["dongchen523@gmail.com"]
 
   spec.summary       = %q{A Jekyll boilerplate theme designed to be a starting point for any Jekyll website.}
-  spec.description   = "A Jekyll boilerplate theme designed to be a starting point for any Jekyll website. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately."
-  spec.homepage      = "https://alembic.darn.es"
+  spec.description   = "CPSLab aims to build data-driven experimental computer systems to make Cyber-Physical Systems (CPS) more energy-efficient and more secure. I have been looking into multiple CPS research problems, such as system sustainability, data privacy, and system security in CPS at different scales, such as the IoT and Edge Computing devices, smart homes and buildings, renewable energy systems, smart grids, and smart cities."
+  spec.homepage      = "https://dongchen0523.github.io/"
   spec.license       = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
