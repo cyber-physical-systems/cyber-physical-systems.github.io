@@ -7,11 +7,12 @@ excerpt: "Publications"
 aside: true
 ---
 
-###### Heading 6
+###### Note:
 
-<small>For the complete list of our publications, please check this page https://scholar.google.com/citations?user=3-nlJyUAAAAJ&hl=en</small>
+<small>For the complete list of our publications, please check this page [https://scholar.google.com/citations?user=3-nlJyUAAAAJ&hl=en](https://scholar.google.com/citations?user=3-nlJyUAAAAJ&hl=en)</small>
 
 ###### Selected Conference Papers
+<small>
 * [IGSC’20] SolarDiagnostics: Automatic Rooftop Solar Photovoltaic Array Damage Detection.   
   Qi Li, Keyang Yu and Dong Chen.   
   In Proc. of the Eleventh IEEE International Green and Sustainable Computing Conference, IGSC’20, Oct 19-22, Acceptance Rate = 23%.   
@@ -64,3 +65,4 @@ aside: true
 * [ICGEC’11] A novel secure architecture for the Internet of Things.    
     Dong Chen, Guiran Chang.    
     In Proceedings of 2011 Fifth International Conference on Genetic and Evolutionary Computing, pages: 311-314.    
+</small>
