@@ -21,11 +21,37 @@ Florida International University.
   Master from Northeastern University, China
 
 - Keyang Yu    
-Ph.D. student, SCIS, FIU, since Fall 2019      
-B.S. from Southeast University
+  Ph.D. student, SCIS, FIU, since Fall 2019      
+  B.S. from Southeast University
+
+- Xu Li   
+  M.S. in CS, SCIS, FIU   
+  from: Beihang University   
+  first employment: Facebook    
+  
+- Yuzhou Feng   
+  M.S./Ph.D. student, SCIS, FIU  
+  
+- Wupeng Yin
+  M.S. student, FIU
 
 ### Undergraduate Students
 
+- Hongru Chu (2020)
+
+- Denis Ortega (2020)
+
+- Samuel Jose (2020)
+
+- Yuyang Leng (2020, Now Ph.D. at George Mason University)
+
+- Jacob Garcia (2019, FIU Honors College)
+
+- Anwar Numa (2018)
+
+- Leonardo Gutierrez (2018)
+
+- Ramses Machado (2018, Now master at Georgia Institute of Technology)
 
 <small>A small element</small>
 
