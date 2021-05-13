@@ -127,8 +127,6 @@ navigation_header:
   url: /publications/
 - title: Projects
   url: /projects/
-- title: Reading Group
-  url: https://github.com/daviddarnes/alembic
 - title: Search
   url: /search/
 - title: Contact
