@@ -2,7 +2,9 @@
 title: CPSLab
 feature_text: |
   ## CPSLab
-  The Cyber-Physical Systems Laboratory (CPSLab) conducts research at the intersection of distributed computation, energy, security and privacy, and control of Cyber-Physical Systems. We investigate the performance modeling, data analysis, system security and privacy, and control of Cyber-Physical Systems. We are part of the FIU SCIS and are physically located at PG6 143 of FIU MMC campus. {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} 
+  The Cyber-Physical Systems Laboratory (CPSLab) conducts research at the intersection of distributed computation, energy, security and privacy, and control of Cyber-Physical Systems. We investigate the performance modeling, data analysis, system security and privacy, and control of Cyber-Physical Systems. We are part of the FIU SCIS and are physically located at PG6 143 of FIU MMC campus. 
+  
+  {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} 
   
 feature_image: "https://picsum.photos/1300/400?image=989"
 
