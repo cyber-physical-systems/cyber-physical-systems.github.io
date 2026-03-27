@@ -1,5 +1,5 @@
 Research (Open-Source Projects):
 
-[SolarFinder](./solarfinder)
+[SolarFinder](./solarfinder.md)
 
 Teaching (landing page)
