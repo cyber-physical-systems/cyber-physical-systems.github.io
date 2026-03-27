@@ -1,6 +1,6 @@
 Research (Open-Source Projects):
 
-[(SolarFinder)](https://github.com/cyber-physical-systems/SolarFinder)
+[SolarFinder](https://github.com/cyber-physical-systems/SolarFinder)
 
 # 🚀 Course Project: Web Solutions 2026
 
