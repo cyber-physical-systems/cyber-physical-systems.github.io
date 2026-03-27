@@ -1,5 +1,9 @@
 # 🚀 Research (Open-Source Projects):
-## 📌 Table of Contents
-*[SolarFinder](https://github.com/cyber-physical-systems/SolarFinder)
+* [SolarFinder](https://github.com/cyber-physical-systems/SolarFinder)
+* [SolarFinder](https://github.com/cyber-physical-systems/SolarFinder)
+* [SolarTrader](https://github.com/cyber-physical-systems/SolarTrader)
+* [SolarFinder](https://github.com/cyber-physical-systems/SolarFinder)
   
 # 🚀 Teaching (landing page)
+## 📌 Table of Contents
+
