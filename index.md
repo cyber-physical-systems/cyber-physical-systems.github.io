@@ -1,5 +1,5 @@
 Research (Open-Source Projects):
 
-[SolarFinder]([https://github.com/cyber-physical-systems/SolarFinder])
+[SolarFinder](./solarfinder)
 
 Teaching (landing page)
