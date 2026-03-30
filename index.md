@@ -1,4 +1,4 @@
-# 🚀 Research (Open-Source Projects):
+# 🚀 Research (Open-Source Projects since August 2018):
 * [IoT Traffic Exposure Monitoring Toolkit (ITEMTK)](https://github.com/cyber-physical-systems/itemtk)
 * [PAROS: The Missing ``Puzzle'' in Smart Home Router Operating Systems](https://github.com/cyber-physical-systems/paros)
 * [VoiceAttack](https://github.com/cyber-physical-systems/VoiceAttack)
@@ -9,6 +9,6 @@
 * [SolarFinder](https://github.com/cyber-physical-systems/SolarFinder)
 * [SolarDiagnostics](https://github.com/cyber-physical-systems/SolarDiagnostics)
   
-# 🚀 Teaching (landing page)
+# 🚀 Teaching (Offered at Colorado School of Mines, Golden, Colorado, USA.)
 * [Operating Systems (CSCI442)]()
 * [IoT Security and Privacy (CSCI583)]()
