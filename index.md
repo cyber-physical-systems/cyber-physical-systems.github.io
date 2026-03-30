@@ -9,6 +9,6 @@
 * [SolarFinder](https://github.com/cyber-physical-systems/SolarFinder)
 * [SolarDiagnostics](https://github.com/cyber-physical-systems/SolarDiagnostics)
   
-# 🚀 Teaching (Offered at Colorado School of Mines, Golden, Colorado, USA.)
+# 🚀 Teaching (Offered at Colorado School of Mines, Golden, USA.)
 * [Operating Systems (CSCI442)]()
 * [IoT Security and Privacy (CSCI583)]()
